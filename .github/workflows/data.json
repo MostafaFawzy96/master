@@ -2,8 +2,8 @@
   "title": "Adhithi's Blog",
   "description": "Fetch remote data from Adhithi's blog",
   "users": [
-    { "id": "1", "name": "Noura" , "password" : "123456" },
-    { "id": "2", "name": "Ahmed" , "password" : "123456" },
-    { "id": "3", "name": "Menna" , "password" : "123456" }
+    { "id": "1", "name": "Noura" , "name2" : "123456" },
+    { "id": "2", "name": "Ahmed" , "name2" : "123456" },
+    { "id": "3", "name": "Menna" , "name2" : "123456" }
   ]
 }
