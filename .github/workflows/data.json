@@ -2,8 +2,8 @@
   "title": "Adhithi's Blog",
   "description": "Fetch remote data from Adhithi's blog",
   "users": [
-    { "id": "1", "name": "Noura" , "n" : "123456" },
-    { "id": "2", "name": "Ahmed" , "n" : "123456" },
-    { "id": "3", "name": "Menna" , "n" : "123456" }
+    { "id": "1", "name": "Noura" },
+    { "id": "2", "name": "Ahmed" },
+    { "id": "3", "name": "Menna" }
   ]
 }
