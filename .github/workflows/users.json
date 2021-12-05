@@ -1,5 +1,7 @@
-{
-  "users": [
+{ 
+  "title": "Adhithi's Blog",
+  "description": "Fetch remote data from Adhithi's blog",
+  "users":
     { "id": "1", "name": "Noura" , "password": "123456" },
     { "id": "2", "name": "Noura" , "password": "123456" },
     { "id": "3", "name": "Noura" , "password": "123456" }
